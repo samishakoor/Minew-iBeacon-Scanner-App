@@ -1,2 +1,2 @@
-# MinewBeaconPlusAndroidDemo
-This demo is based Minew BeaconPlusAndrod example, it is using the MTBeaconPlus.jar library and testing the bluetooth LE beacons E7
+# Minew BeaconSet Plus Scanner
+A sample android application is based on Minew BeaconSET Plus SDK. It is using the MTBeaconPlus.jar library for testing the Bluetooth LE beacons.
